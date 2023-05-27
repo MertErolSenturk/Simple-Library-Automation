@@ -6,4 +6,4 @@ VeriTabanı olarak ACCESS programı kullanılmıştır.
 
 
 
-Yöneticilerin sisteme giriş yapabildiği , giriş yaptıktan sonra kitap ekleyebildiği , eklediği kitapları güncelleyebildiği , bu kitapları silebildiği ayrıca yeni bir yönetici hesap kayıdı yapabildikleri bir programdır.
+Yöneticilerin sisteme giriş yapabildiği , giriş yaptıktan sonra kitap ekleyebildiği , eklediği kitapları güncelleyebildiği , bu kitapları silebildiği ayrıca kitapları arayabildiği bir programdır.
