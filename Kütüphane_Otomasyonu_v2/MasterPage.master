@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <title>E-Kütüphane</title>
+    <link rel="icon" type="image/png" href="images/library-icon.png"/>
+	<link href="css/stil1.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="header">
+            <h4>E-KÜTÜPHANE</h4>
+            <img src="images/library-icon.png" />
+        </div>
+        <div id="kapsa">
+            <div id="left">
+                <ul>
+                    <li><a href="Default.aspx" dir="ltr">ANASAYFA</a></li>
+                    <li><a href="liste.aspx">KİTAPLARI LİSTELE</a></li>
+                    <li><a href="ekle.aspx">KİTAP EKLE</a></li>
+                    <li><a href="ara.aspx">KİTAP ARA</a></li>
+                    <li><a href="duzen.aspx">DÜZENLE</a></li>
+				    <li><a href="kullaniciKayit.aspx">KULLANICI KAYIT</a></li>
+                </ul>
+            </div>
+        <div id="content">
+			<asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+ 
+			</asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="footer">Tüm Hakları Saklıdır @ 2022 Dönem Projesi</div>
+    </form>
+</body>
+</html>
