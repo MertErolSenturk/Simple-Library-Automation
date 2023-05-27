@@ -1,4 +1,4 @@
-Web Tabanlı Kütüphane Otomasyonu
+<b>Web Tabanlı Kütüphane Otomasyonu<b/>
 
 
 HTML CSS C# ve ASP.NET Teknolojileri kullanılmıştır.
