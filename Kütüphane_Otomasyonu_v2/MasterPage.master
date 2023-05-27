@@ -34,7 +34,7 @@
 			</asp:ContentPlaceHolder>
         </div>
     </div>
-    <div id="footer">Tüm Hakları Saklıdır @ 2022 Dönem Projesi</div>
+    <div id="footer">Tüm Hakları Saklıdır @ 2023</div>
     </form>
 </body>
 </html>

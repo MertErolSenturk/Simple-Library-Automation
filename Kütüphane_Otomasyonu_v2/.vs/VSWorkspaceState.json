@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\App_Data"
   ],
-  "SelectedNode": "\\Default.aspx",
+  "SelectedNode": "\\App_Data\\kutuphane.accdb",
   "PreviewInSolutionExplorer": false
 }
