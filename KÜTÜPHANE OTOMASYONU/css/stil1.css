@@ -1,0 +1,27 @@
+﻿body{font-family:"Trebuchet MS";color: #025167;}
+
+#header{width:730px;height:70px;margin:0 auto;background-color:#5ccccc;padding-left:30px;}
+
+#kapsa{width:770px;
+height:494px;margin-top:10px;margin-left: auto;margin-right: auto;margin-bottom: 0;
+}
+
+#left{width:200px;height:400px;border:2px dashed #006363;float:left;margin-right:10px;padding-top:60px;}
+
+ul{ list-style-type:none;}
+
+#left a{ color: #025167; text-decoration:none;}
+
+#left a:hover{ color:#5ccccc;}
+
+#content{width:486px;height:399px;
+         
+border:3px dashed #006363;float:left;padding:30px;overflow:scroll;Font-size:12px;}
+
+#footer{width:760px;height:30px;margin:0 auto;margin-top:10px;background-color:#5ccccc;}
+
+
+h4{float:right;margin-right:30px;}
+
+table{font-size: 12px;}
+.rsm{width:150px;height:150px;}
