@@ -2,7 +2,7 @@ Kutuphane Otomasyonu
 
 
 HTML CSS C# ve ASP.NET Teknolojileri kullanılmıştır.
-VeriTabanı olarak ACCESS programını kullandım.
+VeriTabanı olarak ACCESS programı kullanılmıştır.
 
 
 Web Tabanlı Kütüphane Otomasyonu
