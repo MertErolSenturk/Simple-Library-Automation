@@ -1,12 +1,12 @@
-### Web Tabanlı Kütüphane Otomasyonu
+### Library Automation
 
 
-HTML CSS C# ve ASP.NET Teknolojileri kullanılmıştır.
-VeriTabanı olarak ACCESS programı kullanılmıştır.
+HTML CSS C# and ASP.NET Technologies were used.
+ACCESS program was used as the database.
 
 
 
-Yöneticilerin sisteme giriş yapabildiği , giriş yaptıktan sonra kitap ekleyebildiği , eklediği kitapları güncelleyebildiği , bu kitapları silebildiği ayrıca kitapları arayabildiği bir programdır.
+It is a program where administrators can log in to the system, add books after logging in, update the books they added, delete these books, and also search for books..
 
 
 ![1](https://github.com/MertErolSenturk/ASP.NET-ile-Kutuphane-Otomasyonu/assets/102385998/e5fea402-13dc-4f58-ba98-3eecad949df7)
